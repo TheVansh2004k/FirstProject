@@ -47,6 +47,8 @@
 
     .second-section-main-content {
         display: block !important;
+        overflow: hidden !important;
+
     }
 
     .second-section-main-content img {
